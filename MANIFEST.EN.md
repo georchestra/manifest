@@ -10,12 +10,12 @@ By free, we mean a set of software that everyone can copy, use, understand and m
 
 By modular and interoperable, we mean a system that is primarily designed to exchange data with third-party systems by means of standardized interfaces, and that has the ability to evolve by integrating modules that meet the same standards.
 
-By community, we mean public administrations, research teams, private companies, software publishers, service providers, individuals, with the objective of co-managing a "commons" for the benefit of the greatest number, and in compliance with principles that guarantee the status of a "commons".
+By community, we mean public administrations, research teams, private companies, software publishers, service providers, individuals, with the objective of co-managing a commons for the benefit of the greatest number, and in compliance with principles that guarantee the status of a commons.
 
 
 ## Why and how geOrchestra was designed
 
-In 2009, geOrchestra was designed as an online geographic information system with the aim of democratizing the use of data, in response to the obstacles that limit this use by all audiences: necessary skills, data difficult to obtain, insufficient IT infrastructures, cost of software, incompatible formats, non-open governance. By convergence of values, geOrchestra was built on the technical principles of INSPIRE. The wish of the initial partners to build a sustainable, reusable solution based on subsidiarity led to the adoption of the founding characteristics: free, modular, interoperable. With growing use cases over time, geOrchestra has gone beyond geographic data, beyond its native regional scope and beyond its original developers, retaining its founding characteristics.
+In 2009, geOrchestra was designed as an online geographic information system with the aim of democratizing the use of data, in response to the obstacles that limit this use by all audiences: necessary skills, data difficult to obtain, insufficient IT infrastructures, cost of software, incompatible formats, non-open governance. By convergence of values, geOrchestra was built on the technical principles of INSPIRE. The desire of the original partners was to build a sustainable, reusable solution that would be based on the idea of subsidiarity - meaning that the issues should be managed at the local level when possible. This led to the adoption of the founding characteristics: free, modular, interoperable. With growing use cases over time, geOrchestra has gone beyond geographic data, beyond its native regional scope and beyond its original developers, retaining its founding characteristics.
 
 ## How geOrchestra evolves
 
