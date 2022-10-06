@@ -1,8 +1,8 @@
 # The geOrchestra Manifesto
 
-This is the home of the geOrchestra Manifesto.
+[Read in english here.](MANIFEST.EN.md)
 
 
-The geOrchestra Manifesto is currently available for these languages:
- * [English] (soon)
- * [French](MANIFEST.FR.md)
+# Manifeste de geOrchestra
+
+[Lire en français ici.](MANIFEST.FR.md)
