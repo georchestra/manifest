@@ -4,7 +4,7 @@
 
 geOrchestra is a spatial data infrastructure project whose founding characteristics are: free, modular, interoperable. This project is community driven.
 
-By "spatial data infrastructure", we mean a system that receives, transmits, stores and processes data identified in space and time.
+By spatial data infrastructure, we mean a system that receives, transmits, stores and processes data identified in space and time.
 
 By free, we mean a set of software that everyone can copy, use, understand and modify. We also mean that this set benefits from contributions from other free projects, and must reciprocally enrich these projects. Documentation is part of the package.
 
@@ -22,7 +22,6 @@ In 2009, geOrchestra was designed as an online geographic information system wit
 geOrchestra evolves through the initiatives of its users and developers.
 
 geOrchestra is represented by a steering committee made up of individuals involved in the project. These individuals do not represent any organization. 
-
 The steering committee guarantees the project's compliance with the founding characteristics: free, modular, interoperable. It does so by setting the rules for contributing to the source code, by enforcing the right to speak within the community, by proposing an open and transparent decision-making process, with the systematic search for consensus.
 
 ## What geOrchestra guarantees
