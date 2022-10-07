@@ -1,8 +1,6 @@
 # The geOrchestra Manifesto
 
-[Read in english here.](MANIFEST.EN.md)
-
-
-# Manifeste de geOrchestra
-
-[Lire en français ici.](MANIFEST.FR.md)
+The document is available in multiple languages:
+ * the [geOrchestra manifesto](MANIFEST.EN.md) [en]
+ * le [manifeste geOrchestra](MANIFEST.FR.md) [fr]
+ * soon in Spanish
