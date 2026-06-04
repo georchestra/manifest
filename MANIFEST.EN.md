@@ -22,7 +22,7 @@ In 2009, geOrchestra was designed as an online geographic information system wit
 geOrchestra evolves through the initiatives of its users and developers.
 
 geOrchestra is represented by a steering committee made up of individuals involved in the project. These individuals do not represent any organization. 
-The steering committee guarantees the project's compliance with the founding characteristics: free, modular, interoperable. It does so by setting the rules for contributing to the source code, by enforcing the right to speak within the community, by proposing an open and transparent decision-making process, with the systematic search for consensus.
+The steering committee guarantees the project's compliance with the founding characteristics: free, modular, interoperable. It does so by setting the rules for contributing to the source code, by enforcing the right to speak within the community, by proposing an [open and transparent decision-making process](https://github.com/georchestra/improvement-proposals), with the systematic search for consensus.
 
 ## What geOrchestra guarantees
 
@@ -32,6 +32,6 @@ The interfaces are described and do not depend on proprietary components. This m
 
 The community is open. The software allows interfaces to be translated into other languages. Development proposals that may have an impact on users are described, discussed and approved according to a transparent process.
 
-Contribution to the code is open to any development team that is in line with the spirit of the manifesto and respects the rules for writing code and the architecture of the platform.
+Contribution to the code is open to any development team that is in line with the spirit of the manifesto and respects the [rules for writing code and the architecture of the platform](https://github.com/georchestra/georchestra/blob/master/CONTRIBUTING.md).
 
 This manifesto is reviewed once a year by the assembled community.

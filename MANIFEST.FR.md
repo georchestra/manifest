@@ -22,7 +22,7 @@ En 2009, geOrchestra a été pensé comme un système d’information géographi
 
 geOrchestra évolue par les initiatives de ses utilisateurs et développeurs.
 
-geOrchestra est représenté par un comité de pilotage constitué d’individus impliqués dans le projet. Ces individus ne représentent aucune structure. Le comité de pilotage garantit le respect des caractéristiques fondatrices : libre, modulaire, interopérable, en fixant les règles de contribution au code source, en faisant respecter le droit à la parole au sein de la communauté, en proposant un procédé de prise de décision ouvert et transparent avec la recherche systématique de consensus.
+geOrchestra est représenté par un comité de pilotage constitué d’individus impliqués dans le projet. Ces individus ne représentent aucune structure. Le comité de pilotage garantit le respect des caractéristiques fondatrices : libre, modulaire, interopérable, en fixant les règles de contribution au code source, en faisant respecter le droit à la parole au sein de la communauté, en proposant un [procédé de prise de décision ouvert et transparent](https://github.com/georchestra/improvement-proposals) avec la recherche systématique de consensus.
 
 ## Ce que geOrchestra garantit
 
@@ -32,6 +32,6 @@ Les interfaces sont décrites et ne dépendent pas de composants propriétaires.
 
 La communauté est ouverte. Les logiciels permettent une traduction des interfaces dans d’autres langues. Les propositions d’évolution pouvant avoir un impact sur les utilisateurs sont décrites, discutées et approuvées suivant un procédé transparent.
 
-La contribution au code est ouverte à toute équipe de développement qui s’inscrit dans l’esprit du manifeste et respecte les règles d’écriture du code et d’architecture de la plateforme.
+La contribution au code est ouverte à toute équipe de développement qui s’inscrit dans l’esprit du manifeste et respecte les [règles d’écriture du code et d’architecture de la plateforme](https://github.com/georchestra/georchestra/blob/master/CONTRIBUTING.md).
 
 Ce manifeste est réexaminé une fois par an par la communauté rassemblée. 
