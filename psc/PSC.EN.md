@@ -16,9 +16,9 @@ The PSC ensures that the founding principles of geOrchestra are respected: free 
 
 The PSC meets at least once a month.
 
-The PSC strives to reach decisions by consensus. When consensus cannot be achieved, decisions may be submitted to a public vote of the PSC.
+Consensus is sought for all decision-making. When this cannot be reached, the PSC may call upon the geOrchestra community to obtain a decision.
 
-PSC decisions, including those related to GIPs, are publicly documented.
+PSC decisions, including those related to GIPs, are publicly documented, in accordance with [the voting procedure](https://github.com/georchestra/improvement-proposals/blob/main/README_en.md#processus)
 
 ## Nomination of New Members
 
@@ -28,19 +28,14 @@ PSC members are co-opted based on:
 * their engagement within the community;
 * their ability to act in the best interest of geOrchestra.
 
-Any proposal to nominate a new PSC member is subject to:
-
-1. an open discussion within the community;
-2. a public vote by the PSC.
-
-The nomination is approved by a qualified majority of PSC members.
+Any proposal to appoint a new member is reviewed by the PSC, which approves or rejects the proposed member's entry into the PSC.
 
 ## End of Membership and Participation
 
-Any member may leave the PSC at any time by informing the community.
+Any member may leave the PSC at any time by notifying the PSC via email.
 
 PSC membership is attached to an individual and may not be transferred or delegated. Anyone wishing to join the PSC must follow the nomination process described in this document.
 
 PSC members are expected to actively participate in the work of the committee and in the life of the project.
 
-When a member no longer participates in PSC activities or in the project for an extended period of time, the PSC may initiate a discussion with that member to determine whether they wish to retain their role. Following this discussion, the PSC may decide, through a vote, to end the member's mandate.
+When a member no longer participates in PSC activities or in the project for an extended period of time, the PSC may initiate a discussion with that member to determine whether they wish to retain their role. Following this discussion, the PSC may decide to terminate its mandate by notifying the PSC via email.
