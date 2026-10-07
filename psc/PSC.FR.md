@@ -16,9 +16,9 @@ Le PSC garantit le respect des caractéristiques fondatrices de geOrchestra : un
 
 Le PSC se réunit au moins une fois par mois.
 
-Les décisions sont recherchées par consensus. Lorsque celui-ci ne peut être atteint, elles peuvent être soumises à un vote public du PSC.
+Le consensus est recherché pour toute prise de décision. Lorsque celui-ci ne peut être atteint, le PSC pourra solliciter la communauté geOrchestra pour obtenir une décision.
 
-Les décisions du PSC, notamment concernant les GIP, sont documentées publiquement.
+Les décisions du PSC, notamment concernant les GIP, sont documentées publiquement, conformément à [la procédure de vote](https://github.com/georchestra/improvement-proposals/blob/main/README_fr.md#processus).
 
 ## Nomination de nouveaux membres
 
@@ -28,19 +28,14 @@ Les membres du PSC sont cooptés sur la base :
 * de leur engagement au sein de la communauté ;
 * de leur capacité à agir dans l'intérêt général de geOrchestra.
 
-Toute proposition de nomination d'un nouveau membre fait l'objet :
-
-1. d'une discussion ouverte au sein de la communauté ;
-2. d'un vote public du PSC.
-
-La nomination est validée à la majorité qualifiée du PSC.
+Toute proposition de nomination d'un nouveau membre est examinée par le PSC qui valide ou pas l'entrée du membre proposé dans le PSC.
 
 ## Fin de mandat et participation
 
-Tout membre peut quitter le PSC à tout moment en informant la communauté.
+Tout membre peut quitter le PSC à tout moment en informant le PSC par un courrier électronique.
 
 Le statut de membre du PSC est attaché à une personne et ne peut être transmis ou délégué. Toute personne souhaitant rejoindre le PSC doit suivre le processus de nomination décrit dans ce document.
 
 Les membres du PSC sont invités à participer activement aux travaux du comité et à la vie du projet.
 
-Lorsqu'un membre ne participe plus aux activités du PSC ou du projet pendant une période prolongée, le PSC peut engager une discussion avec l'intéressé afin de déterminer s'il souhaite conserver son rôle. À l'issue de cette discussion, le PSC peut décider, par vote, de mettre fin à son mandat.
+Lorsqu'un membre ne participe plus aux activités du PSC ou du projet pendant une période prolongée, le PSC peut engager une discussion avec l'intéressé afin de déterminer s'il souhaite conserver son rôle. À l'issue de cette discussion, le PSC peut décider de mettre fin à son mandat.
