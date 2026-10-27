@@ -4,13 +4,13 @@ geOrchestra est représenté par un Comité de Pilotage du Projet (Project Steer
 
 Les membres du PSC ne représentent aucune structure, entreprise ou institution. Ils agissent dans l'intérêt général du projet et de sa communauté.
 
-Le PSC garantit le respect des caractéristiques fondatrices de geOrchestra : un logiciel libre, modulaire et interopérable. À ce titre, il :
+Le PSC garantit le respect des caractéristiques fondatrices de geOrchestra telles que définies dans [le manifeste de geOrchestra](https://github.com/georchestra/manifest/blob/main/MANIFEST.FR.md) : un logiciel libre, modulaire et interopérable. À ce titre, il :
 
 * fixe et maintient les règles de contribution au projet ;
 * veille au respect de la parole et à la participation de l'ensemble de la communauté ;
 * promeut un processus de décision ouvert, transparent et fondé sur la recherche du consensus ;
 * veille à la cohérence de la feuille de route du projet ;
-* examine et vote les geOrchestra Improvement Proposals (GIP).
+* examine et vote les geOrchestra Improvement Proposals (GIP)?
 
 ## Fonctionnement
 
