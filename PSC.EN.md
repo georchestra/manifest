@@ -4,7 +4,7 @@ geOrchestra is governed by a Project Steering Committee (PSC) composed of indivi
 
 PSC members do not represent any company, organization, or institution. They act in the best interest of the project and its community.
 
-The PSC ensures that the founding principles of geOrchestra are respected, as defined in [the geOrchestra manifesto](https://github.com/georchestra/manifest/blob/main/MANIFEST.EN.md): free software, modularity, and interoperability. To this end, it:
+The PSC ensures that the founding principles of geOrchestra are respected, as defined in [the geOrchestra manifest](https://github.com/georchestra/manifest/blob/main/MANIFEST.EN.md): free software, modularity, and interoperability. To this end, it:
 
 * defines and maintains the project's contribution rules;
 * ensures that all members of the community have the opportunity to participate and be heard;
