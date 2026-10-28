@@ -1,6 +1,6 @@
 # Comité de Pilotage du Projet (PSC)
 
-geOrchestra est représenté par un Comité de Pilotage du Projet (Project Steering Committee - PSC) constitué d'individus impliqués dans le projet.
+geOrchestra est représenté par un Comité de Pilotage du Projet (Project Steering Committee - PSC) constitué d'individus activement impliqués dans le projet.
 
 Les membres du PSC ne représentent aucune structure, entreprise ou institution. Ils agissent dans l'intérêt général du projet et de sa communauté.
 
