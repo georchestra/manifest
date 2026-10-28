@@ -10,7 +10,7 @@ Le PSC garantit le respect des caractéristiques fondatrices de geOrchestra tell
 * veille au respect de la parole et à la participation de l'ensemble de la communauté ;
 * promeut un processus de décision ouvert, transparent et fondé sur la recherche du consensus ;
 * veille à la cohérence de la feuille de route du projet ;
-* examine et vote les geOrchestra Improvement Proposals (GIP)?
+* examine et vote les geOrchestra Improvement Proposals (GIPs).
 
 ## Fonctionnement
 
