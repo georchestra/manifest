@@ -38,4 +38,4 @@ PSC membership is attached to an individual and may not be transferred or delega
 
 PSC members are expected to actively participate in the work of the committee and in the life of the project.
 
-When a member no longer participates in PSC activities or in the project for an extended period of time, the PSC may initiate a discussion with that member to determine whether they wish to retain their role. Following this discussion, the PSC may decide to terminate their mandate by notifying the PSC via email.
+When a member no longer participates in the activities of the PSC or the project for an extended period, the PSC may initiate a discussion with the individual in question to determine whether they wish to retain their role. Following this discussion, the active members of the PSC may decide to terminate that person’s mandate.

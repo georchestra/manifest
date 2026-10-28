@@ -38,4 +38,4 @@ Le statut de membre du PSC est attaché à une personne et ne peut être transmi
 
 Les membres du PSC sont invités à participer activement aux travaux du comité et à la vie du projet.
 
-Lorsqu'un membre ne participe plus aux activités du PSC ou du projet pendant une période prolongée, le PSC peut engager une discussion avec l'intéressé afin de déterminer s'il souhaite conserver son rôle. À l'issue de cette discussion, le PSC peut décider de mettre fin à son mandat.
+Lorsqu'un membre ne participe plus aux activités du PSC ou du projet pendant une période prolongée, le PSC peut engager une discussion avec l'intéressé afin de déterminer s'il souhaite conserver son rôle. À l'issue de cette discussion, les membres actifs du PSC peuvent décider de mettre fin à son mandat.
